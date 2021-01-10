@@ -1,4 +1,4 @@
-#!/usr/bin/python3.9.1
+#!/usr/bin/python3.9
 
 import os
 sist = os.system
